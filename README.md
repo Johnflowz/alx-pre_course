@@ -1,3 +1,3 @@
-# alx-pre_course
-My latest repo on ALX 
-/0x01-git 
+I'm now a ALX Student, this is my first repository as a full-stack engineer 
+
+
